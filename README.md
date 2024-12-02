@@ -34,14 +34,11 @@ The primary focus of this project is to:
 As a member of the **Group6Capstone** team, I contributed significantly to the project through the following efforts:
 
 1. **Feature Engineering and EDA**:
-   - Developed survival-related features, such as "Time to Failure," which was calculated from unplanned maintenance logs.
+   - Developed survival-related features, such as "Time to Failure".
    - Engineered machine-level attributes to represent historical maintenance schedules, part replacements, and operational time.
 
 2. **Model Development**:
-   - Designed and implemented the **Cox Proportional Hazards Survival Model** to predict time-to-failure, focusing on hazard rates for each machine.
-
-3. **Validation and Optimization**:
-   - Assessed model performance using survival-specific metrics, such as the Concordance Index, and refined features to improve predictions.
+   - Designed and implemented the **Random Forrest Regressor Model** to try and impute missing values.
 
 ### 🚀 Business Value of the Solution
 The survival models provide valuable insights for Swire Coca-Cola by:
@@ -66,17 +63,11 @@ The project faced several significant challenges, including:
    - Over 80% of the dataset contained null values, requiring creative solutions, such as focusing on a 20% subset with viable data.
 
 2. **Complex Target Definition**:
-   - The target variable, "Time to Failure," had to be constructed from raw logs by calculating time intervals between unplanned maintenance events.
-
-3. **Temporal Dependencies**:
-   - Modeling time-to-failure introduced challenges related to event censoring, necessitating survival analysis techniques like the Cox model.
-  
+   - The target variable, "Time to Failure," had to be created by out team.
 ---
 
 ### Takeaways
 Key insights from this project include:
 - **Survival Analysis** is a promising approach for predicting time to failure in manufacturing systems.
-- Improved data quality and additional features (e.g., machine age, temperature, pressure) could significantly enhance model performance.
-- Filtering the dataset for reliable entries ensured the survival models could produce meaningful predictions.
-
+- This improved modeling approach will reduce machine downtime and save Swire millions of dollars a year.
 ---
