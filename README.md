@@ -3,11 +3,9 @@
 This portfolio highlights the **Swire Coca-Cola Capstone Project**, which focuses on predicting machine failure to reduce downtime and improve operational efficiency. A key component of the project is the development of **Survival Models** to estimate the time to failure for machines. Click the links below to view the code and presentation slides on my personal GitHub page.
 
 ## [Group6Capstone: Project Overview](https://github.com/SamRobinson123/GroupProjectRepo/blob/main/Group6Capstone.ipynb)
-<<<<<<< HEAD
-## [Individual Notebook: Random Forrest Regressor]([https://github.com/SamRobinson123/GroupProjectRepo/blob/main/Group6SlideDeck.pdf](https://github.com/SamRobinson123/IndividualRepo/blob/main/ModelingAssignment.ipynb))
-=======
-## [Personal Notebook: )
->>>>>>> f934d8f5fc209235136b1d9a9c893ae8b4d7720e
+
+## [Individual Notebook: Random Forest Regressor](https://github.com/SamRobinson123/IndividualRepo/blob/main/ModelingAssignment.ipynb)
+
 ![Project Status](https://img.shields.io/badge/status-complete-green.svg)
 
 ### Business Problem
@@ -32,7 +30,7 @@ The primary focus of this project is to:
     - **Machine-Level Model**: 0.78
     - **Component-Level Model**: 0.76
 
-  ### 🚀 Personal Contribution
+### 🚀 Personal Contribution
 As a member of the **Group6Capstone** team, I contributed significantly to the project through the following efforts:
 
 1. **Feature Engineering and EDA**:
@@ -40,17 +38,17 @@ As a member of the **Group6Capstone** team, I contributed significantly to the p
    - Engineered machine-level attributes to represent historical maintenance schedules, part replacements, and operational time.
 
 2. **Model Development**:
-   - Designed and implemented the **Cox Proportional Hazards survivor model** to predict time-to-failure, focusing on hazard rates for each machine.
+   - Designed and implemented the **Cox Proportional Hazards Survival Model** to predict time-to-failure, focusing on hazard rates for each machine.
 
 3. **Validation and Optimization**:
-   - Assessed model performance using survival-specific metrics, such as Concordance Index, and refined features to improve predictions.
+   - Assessed model performance using survival-specific metrics, such as the Concordance Index, and refined features to improve predictions.
 
 ### 🚀 Business Value of the Solution
 The survival models provide valuable insights for Swire Coca-Cola by:
 - Enabling **proactive maintenance** to prevent machine downtime.
 - Improving decision-making with data-driven predictions.
 - Laying the groundwork for further improvements through enhanced data collection and feature engineering.
-- Reducing annual costs driven by unplanned maintenance
+- Reducing annual costs driven by unplanned maintenance.
 
 ### Key Metrics
 - **Concordance Index (C-Index)**:
