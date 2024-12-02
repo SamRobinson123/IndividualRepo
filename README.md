@@ -6,6 +6,8 @@ This portfolio highlights the **Swire Coca-Cola Capstone Project**, which focuse
 
 ## [Individual Notebook: Random Forest Regressor](https://github.com/SamRobinson123/IndividualRepo/blob/main/ModelingAssignment.ipynb)
 
+## [EDA Notebook](https://github.com/SamRobinson123/IndividualRepo/blob/main/EDA.ipynb)
+
 ![Project Status](https://img.shields.io/badge/status-complete-green.svg)
 
 ### Business Problem
