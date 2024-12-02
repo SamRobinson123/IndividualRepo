@@ -4,7 +4,7 @@ This portfolio highlights the **Swire Coca-Cola Capstone Project**, which focuse
 
 ## [Group6Capstone: Project Overview](https://github.com/SamRobinson123/GroupProjectRepo/blob/main/Group6Capstone.ipynb)
 <<<<<<< HEAD
-## [Group6 Slide Deck: Presentation Slides](https://github.com/SamRobinson123/GroupProjectRepo/blob/main/Group6SlideDeck.pdf)
+## [Individual Notebook: Random Forrest Regressor]([https://github.com/SamRobinson123/GroupProjectRepo/blob/main/Group6SlideDeck.pdf](https://github.com/SamRobinson123/IndividualRepo/blob/main/ModelingAssignment.ipynb))
 =======
 ## [Personal Notebook: )
 >>>>>>> f934d8f5fc209235136b1d9a9c893ae8b4d7720e
